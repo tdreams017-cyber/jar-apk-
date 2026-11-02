@@ -1,0 +1,6 @@
+{
+  "name": "تأجير الجيران",
+  "description": "تطبيق لتأجير الأغراض بين الجيران في العراق بالدينار العراقي مع نظام وساطة آمن ولوحة تحكم للإدارة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
